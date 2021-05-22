@@ -1,0 +1,22 @@
+{
+	"Title": "Serpent {version}",
+
+	"Titles": {
+		"Auth": " - Checking Auth...",
+		"Roblox": " - Checking for Roblox...",
+		"Injecting": " - Injecting...",
+		"Done": " - Done!",
+
+		"RobloxNotFound": " - Please open Roblox first!",
+		"Terminated": " - Roblox was terminated while Injecting.",
+		"Failed": " - Failed to Inject!",
+	},
+
+	"Loader": {
+		"StartingLoader": "Starting Loader...",
+		"CheckingDir": "Checking Directory...",
+		"Installing": "Installing Files...",
+		"CheckAuth": "Checking Auth...",
+		"CheckVers": "Checking Version...",
+	}
+}
